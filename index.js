@@ -1,6 +1,6 @@
 'use strict';
 
-const Medicine = require('./lib/medicineContract');
+const Producto = require('./lib/productContract');
 
-module.exports.Medicine = Medicine;
-module.exports.contracts = [ Medicine ];
+module.exports.Producto = Producto;
+module.exports.contracts = [ Producto ];
